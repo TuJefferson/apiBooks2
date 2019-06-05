@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlApi": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "apiBooks",
+    "password": "123456789",
+    "name": "mysqlApi",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
